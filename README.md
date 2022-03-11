@@ -4,7 +4,7 @@ Experimental Status
 ## Usage
 ```
 dependencies:
-  motion_framer: ^0.0.1
+  motion_framer: ^0.0.2
 ```
 
 ```
