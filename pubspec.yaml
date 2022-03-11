@@ -1,9 +1,7 @@
 name: motion_framer
 description: flutter_motion_framer package.
 version: 0.0.1
-homepage:
-authors:
- - Creator <jeong9132@gmail.com>
+homepage: https://github.com/seungdeok/flutter_motion_framer
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
